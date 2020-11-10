@@ -1,5 +1,6 @@
 # git_test
 
+
 # test
 adding somthing
 adding more  a few lines! line
@@ -12,3 +13,6 @@ if(!goodDay){
 
 # matan was here
 some lines
+
+#nofar was here
+
