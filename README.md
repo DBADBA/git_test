@@ -1,5 +1,9 @@
 # git_test
 
+nirro is trying to change and control the git_test
+one git to rull them all
+
+
 
 # test
 adding somthing
@@ -15,4 +19,5 @@ if(!goodDay){
 some lines
 
 #nofar was here
+
 
